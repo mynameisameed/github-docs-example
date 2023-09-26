@@ -46,10 +46,22 @@ This is a simple example, and Terraform can be used to manage more complex infra
 - [ ] Finished Step 1
 - [ ] Finished Step 2
 - [ ] Finished Step 3
+- [ ] 
+
 # Step 4 - Use Emojis (Optional)
+
 | Name | Shortcode | Emoji
 | ---|---|---|
 |Cloud| `:cloud:` |:cloud:|
+|Cloud with lighting | `:cloud_with_lightning:` | 🌩️|
+
+# Step 5 - How to Create Table
+```md
+| Name | Shortcode | Emoji
+| ---|---|---|
+|Cloud| `:cloud:` |:cloud:|
+|Cloud with lighting | `:cloud_with_lightning:` | 🌩️|
+
 
 # Reference Links
 - https://www.terraform.io/
