@@ -61,8 +61,8 @@ This is a simple example, and Terraform can be used to manage more complex infra
 | ---|---|---|
 |Cloud| `:cloud:` |:cloud:|
 |Cloud with lighting | `:cloud_with_lightning:` | 🌩️|
+```
 
-
-# Reference Links
+## External References
 - https://www.terraform.io/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
